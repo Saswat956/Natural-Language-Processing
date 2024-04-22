@@ -52,6 +52,27 @@ def visualize_pca_2d(embeddings, words):
     plt.grid(True)
     plt.show()
 
+# Function to determine sentiment score of a review
+def get_sentiment_score(review):
+    embed_review = get_openai_embedding(review)
+    dist_pos = calculate_distance(embed_review, embd_positive)
+    dist_neg = calculate_distance(embed_review, embd_neg)
+    cosine_sim_pos = cosine_similarity(embed_review, embd_positive)
+    cosine_sim_neg = cosine_similarity(embed_review, embd_neg)
+    
+    score_pos = dist_pos * cosine_sim_pos
+    score_neg = dist_neg * cosine_sim_neg
+    
+    # Scale the scores to the range -5 to 5
+    score_pos_scaled = scale_score(score_pos)
+    score_neg_scaled = scale_score(score_neg)
+    
+    if score_pos_scaled > score_neg_scaled:
+        return score_pos_scaled
+    else:
+        return -score_neg_scaled
+
+
 # Function to determine sentiment of a review
 def is_positive(review):
     embed_review = get_openai_embedding(review)
