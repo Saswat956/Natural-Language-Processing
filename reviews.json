@@ -1,0 +1,1517 @@
+[
+  {
+    "Reviews": "The food served onboard was delicious, with a variety of options to choose from. However, the portion sizes were a bit small for my liking.",
+    "Response": "Airline Travel",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The food quality was subpar, with some dishes tasting bland and unappetizing. However, the snacks provided were decent.",
+    "Response": "Food",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The vegetarian meal options were limited and not very appetizing, but the dessert was surprisingly good. Overall, the dining experience was mediocre.",
+    "Response": "Food",
+    "Polarity": -1
+  },
+  {
+    "Reviews": "The flight was smooth and comfortable, and the cabin crew was friendly and attentive. Overall, it was a pleasant experience.",
+    "Response": "Airline Travel",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "My baggage was mishandled, and some items were missing upon arrival. Despite filing a complaint, the airline's response was slow and unhelpful.",
+    "Response": "Baggage",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "The flight was delayed for several hours due to technical issues, causing inconvenience to passengers. However, the airline provided timely updates and assistance.",
+    "Response": "Airline Travel",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The customer service representatives were rude and unprofessional, making the overall experience unpleasant. Additionally, the seats were uncomfortable and lacked sufficient legroom.",
+    "Response": "Other Services",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "The in-flight entertainment system was not working properly, and there were limited movie options available. Additionally, the Wi-Fi onboard was slow and unreliable.",
+    "Response": "Other Services",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The food was awful it looked awful and tasted awful I will be sending a letter and will attach pictures.",
+    "Response": "Food",
+    "Polarity": -5
+  },
+  {
+    "Reviews": "The food was satisfactory but the presentation was lacking. Overall, an average dining experience.",
+    "Response": "Food",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The food was excellent, with a wide variety of options to choose from. The service was also top-notch.",
+    "Response": "Food",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The food served during the flight was fresh and flavorful, exceeding my expectations. It was a delightful culinary experience.",
+    "Response": "Food",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The vegetarian meal option was disappointing, with limited choices and bland flavors. It would be great if the airline could improve its food offerings.",
+    "Response": "Food",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I have dietary restrictions, and the airline accommodated them perfectly. The special meal provided was delicious and satisfying.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The food quality was inconsistent, with some dishes being delicious while others were undercooked. Overall, it was a mixed dining experience.",
+    "Response": "Food",
+    "Polarity": -1
+  },
+  {
+    "Reviews": "The airline provided complimentary snacks and beverages, which were a nice touch. However, the options were limited, and the snacks were not very appetizing.",
+    "Response": "Food",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The flight attendants were attentive and ensured that everyone received their meals promptly. The food itself was average but served hot and fresh.",
+    "Response": "Food",
+    "Polarity": 3
+  },
+  {
+    "Reviews": "I had a special dietary request, and the airline accommodated it without any hassle. The meal provided was delicious and exceeded my expectations.",
+    "Response": "Food",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The food quality has declined over the years, with meals becoming increasingly bland and unappetizing. It's disappointing to see the standard drop.",
+    "Response": "Food",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "The airline offers a variety of meal options, catering to different dietary preferences. The food was tasty, and there was something for everyone.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "I had a special request for my meal, but it was not fulfilled by the airline. The food options for vegetarians were limited, and the quality was poor.",
+    "Response": "Food",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The food served onboard was delicious and freshly prepared. It was evident that the airline takes pride in its culinary offerings.",
+    "Response": "Food",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "I have a nut allergy, and the airline ensured that my meal was nut-free. However, the food options were limited, and the quality was mediocre.",
+    "Response": "Food",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The food served during the flight was unappetizing and lacked flavor. It would be great if the airline could improve the quality of its meals.",
+    "Response": "Food",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The airline offers a wide selection of snacks and beverages, which is great for long flights. However, the quality of the food could be better.",
+    "Response": "Food",
+    "Polarity": -1
+  },
+  {
+    "Reviews": "I was pleasantly surprised by the quality of the food served onboard. It was delicious and exceeded my expectations for airline cuisine.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The vegetarian meal option was disappointing, with limited choices and bland flavors. It would be great if the airline could improve its food offerings.",
+    "Response": "Food",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I have dietary restrictions, and the airline accommodated them perfectly. The special meal provided was delicious and satisfying.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The food quality was inconsistent, with some dishes being delicious while others were undercooked. Overall, it was a mixed dining experience.",
+    "Response": "Food",
+    "Polarity": -1
+  },
+  {
+    "Reviews": "The airline provided complimentary snacks and beverages, which were a nice touch. However, the options were limited, and the snacks were not very appetizing.",
+    "Response": "Food",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The flight attendants were attentive and ensured that everyone received their meals promptly. The food itself was average but served hot and fresh.",
+    "Response": "Food",
+    "Polarity": 3
+  },
+  {
+    "Reviews": "The food selection onboard was excellent, with a variety of options to choose from. Everything tasted fresh and delicious.",
+    "Response": "Food",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "I was disappointed with the quality of the food served during the flight. It was bland and unappetizing.",
+    "Response": "Food",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The vegetarian meal option provided was flavorful and satisfying. I appreciated the effort made to accommodate dietary preferences.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airline should improve the portion sizes of their meals. The food portions were too small for a long-haul flight.",
+    "Response": "Food",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "I enjoyed the complimentary snacks and beverages offered onboard. It was a nice gesture from the airline.",
+    "Response": "Food",
+    "Polarity": 3
+  },
+  {
+    "Reviews": "The food presentation was lacking, and it did not look appetizing. However, the taste was better than expected.",
+    "Response": "Food",
+    "Polarity": -1
+  },
+  {
+    "Reviews": "I have specific dietary requirements, and the airline staff were accommodating in providing suitable meal options. The food was tasty and met my needs.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The food served during the flight was subpar. It lacked flavor and freshness.",
+    "Response": "Food",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I appreciated the healthy food options available onboard. It's great to see airlines promoting nutritious choices.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The food quality has declined compared to my previous experiences with this airline. It's disappointing to see the standard drop.",
+    "Response": "Food",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "I was impressed with the variety of food options available onboard. There was something for every palate.",
+    "Response": "Food",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The airline should offer more vegetarian and vegan meal options. The current choices are limited and not very appetizing.",
+    "Response": "Food",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The food served during the flight was delicious, and the presentation was excellent. It exceeded my expectations.",
+    "Response": "Food",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "I have specific dietary restrictions, and the airline was able to accommodate them without any issues. The food provided was tasty and suitable for my needs.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airline offers a range of healthy snack options, which is great for health-conscious travelers. However, the taste could be improved.",
+    "Response": "Food",
+    "Polarity": 2
+  },
+  {
+    "Reviews": "I was disappointed with the lack of vegetarian options onboard. The available choices were limited and not very appetizing.",
+    "Response": "Food",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The food served during the flight was average. It was neither outstanding nor terrible.",
+    "Response": "Food",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "I appreciated the special meal provided to accommodate my dietary restrictions. It was tasty and satisfying.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airline should offer more variety in their snack options. The current selection is repetitive and uninspired.",
+    "Response": "Food",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The food quality has improved significantly compared to my previous flights with this airline. It's a positive change.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The food served during the flight was delicious, and the presentation was top-notch. It was a pleasant surprise.",
+    "Response": "Food",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "I have allergies, and the airline staff were very attentive to my needs. They ensured that my meal was allergen-free and delicious.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The food options onboard were limited, and I expected more variety. It would be great if the airline could offer a broader selection.",
+    "Response": "Food",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "I was pleasantly surprised by the quality of the food served during the flight. It exceeded my expectations.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The food selection onboard was disappointing. There were not enough options, especially for passengers with dietary restrictions.",
+    "Response": "Food",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I was impressed by the freshness and taste of the food served onboard. It was one of the highlights of my flight.",
+    "Response": "Food",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The airline should improve the quality of their vegetarian meal options. The current choices are bland and unappetizing.",
+    "Response": "Food",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I appreciated the variety of snacks available onboard. It was nice to have different options to choose from during the flight.",
+    "Response": "Food",
+    "Polarity": 3
+  },
+  {
+    "Reviews": "The food served during the flight was subpar. It lacked flavor and freshness, and the portion sizes were small.",
+    "Response": "Food",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "I was disappointed with the lack of vegetarian options onboard. The available choices were limited and not very appetizing.",
+    "Response": "Food",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The food quality has improved significantly compared to my previous flights with this airline. It's a positive change.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "I was pleasantly surprised by the taste of the food served onboard. It was much better than I expected.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The food presentation was excellent, and everything looked appetizing. However, the taste did not live up to the appearance.",
+    "Response": "Food",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "I was impressed by the quality and variety of the food options available onboard. It made the flight more enjoyable.",
+    "Response": "Food",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The airline should offer more healthy snack options. The current choices are mostly junk food.",
+    "Response": "Food",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "I have dietary restrictions, and the airline was able to accommodate them without any issues. The food provided was delicious and suitable for my needs.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The food served during the flight was average. It was neither outstanding nor terrible.",
+    "Response": "Food",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "I appreciated the special meal provided to accommodate my dietary restrictions. It was tasty and satisfying.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airline should offer more variety in their snack options. The current selection is repetitive and uninspired.",
+    "Response": "Food",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "I was pleasantly surprised by the quality of the food served onboard. It was much better than I expected.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The food options onboard were disappointing. I expected more choices, especially for vegetarian passengers.",
+    "Response": "Food",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I was impressed by the variety of snack options available onboard. It's nice to have different choices during the flight.",
+    "Response": "Food",
+    "Polarity": 3
+  },
+  {
+    "Reviews": "The food served during the flight was subpar. It lacked flavor and freshness.",
+    "Response": "Food",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I was disappointed with the quality of the food. It did not meet my expectations.",
+    "Response": "Food",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The food provided was delicious, and the presentation was excellent. It was a pleasant dining experience onboard.",
+    "Response": "Food",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "I appreciated the healthy snack options available onboard. It's good to have nutritious choices during the flight.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The food quality has declined compared to my previous flights with this airline. It's disappointing to see the standard drop.",
+    "Response": "Food",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "I was pleasantly surprised by the food selection onboard. There were plenty of options to choose from.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The food served during the flight was bland and unappetizing. It was not worth the price.",
+    "Response": "Food",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I enjoyed the complimentary snacks provided onboard. They were a nice treat during the flight.",
+    "Response": "Food",
+    "Polarity": 3
+  },
+  {
+    "Reviews": "The food presentation was lacking, and it did not look appetizing. However, the taste was better than expected.",
+    "Response": "Food",
+    "Polarity": -1
+  },
+  {
+    "Reviews": "I have specific dietary restrictions, and the airline staff were accommodating in providing suitable meal options. The food was tasty and met my needs.",
+    "Response": "Food",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The food selection onboard was excellent, with a variety of options to choose from. Everything tasted fresh and delicious.",
+    "Response": "Food",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The flight was smooth and comfortable, and the cabin crew were very attentive to passenger needs. Overall, it was a pleasant journey.",
+    "Response": "Travel",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "My flight was delayed by several hours, causing me to miss my connecting flight. It was a frustrating experience and disrupted my travel plans.",
+    "Response": "Travel",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "The airline provided excellent service throughout the flight. The check-in process was efficient, and the staff were friendly and helpful.",
+    "Response": "Travel",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "I had a comfortable flight experience with ample legroom and entertainment options. The journey was enjoyable and stress-free.",
+    "Response": "Travel",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "My flight was overbooked, and I was bumped off due to lack of available seats. It was an inconvenience and left me stranded at the airport.",
+    "Response": "Travel",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The flight attendants were rude and unprofessional, and the overall service was lacking. It was a disappointing experience.",
+    "Response": "Travel",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I had a pleasant experience flying with this airline. The flight was on time, and the service was excellent.",
+    "Response": "Travel",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The flight was turbulent, and the landing was rough. It made for an uncomfortable journey.",
+    "Response": "Travel",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "I encountered a long delay at the airport due to technical issues with the aircraft. It was frustrating, but the airline provided compensation for the inconvenience.",
+    "Response": "Travel",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The airline lost my luggage, and it took several days to locate and return it to me. It was a hassle and soured my travel experience.",
+    "Response": "Travel",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "I had a pleasant flight experience with this airline. The seats were comfortable, and the in-flight entertainment was enjoyable.",
+    "Response": "Travel",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The flight was delayed due to bad weather conditions, but the airline kept passengers informed and provided snacks and refreshments during the wait.",
+    "Response": "Travel",
+    "Polarity": 2
+  },
+  {
+    "Reviews": "I missed my connecting flight due to a delay with the first leg of my journey. The airline rebooked me on a later flight, but it was an inconvenience.",
+    "Response": "Travel",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I had a smooth and hassle-free check-in process, and the boarding was well-organized. The flight departed on time, and I arrived at my destination without any issues.",
+    "Response": "Travel",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The flight attendants were friendly and attentive, and the overall service was excellent. It was a comfortable journey from start to finish.",
+    "Response": "Travel",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "My flight was canceled without prior notice, and I was left stranded at the airport with no alternative arrangements. It was a frustrating experience.",
+    "Response": "Travel",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "I had a great flight experience with this airline. The aircraft was clean and well-maintained, and the staff were courteous and professional.",
+    "Response": "Travel",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The flight was delayed due to technical issues, but the airline provided regular updates and kept passengers informed. The staff handled the situation well.",
+    "Response": "Travel",
+    "Polarity": 3
+  },
+  {
+    "Reviews": "I had a comfortable journey with plenty of legroom and amenities onboard. The flight crew were helpful, and the service was excellent.",
+    "Response": "Travel",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The flight was overcrowded, and there was limited space to move around. It made for an uncomfortable journey.",
+    "Response": "Travel",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I had a pleasant experience flying with this airline. The flight was smooth, and the service was efficient.",
+    "Response": "Travel",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The flight was delayed due to unforeseen circumstances, but the airline provided compensation and assistance to affected passengers.",
+    "Response": "Travel",
+    "Polarity": 2
+  },
+  {
+    "Reviews": "I encountered a long wait at the security checkpoint, which caused me to almost miss my flight. It was a stressful start to my journey.",
+    "Response": "Travel",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "I had a pleasant flight experience overall, despite a slight delay in departure. The airline staff were helpful and courteous throughout the journey.",
+    "Response": "Travel",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The flight was overbooked, and I had to give up my seat. It was an inconvenience, but the airline provided compensation for the inconvenience.",
+    "Response": "Travel",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I had a smooth and comfortable journey with this airline. The flight crew were attentive, and the service was excellent.",
+    "Response": "Travel",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The flight was delayed, and there was a lack of communication from the airline regarding the status of the delay. It was frustrating for passengers.",
+    "Response": "Travel",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "My luggage was lost during the flight, and it took several days for the airline to locate and return it to me. It was a major inconvenience and caused me a lot of stress.",
+    "Response": "Baggage",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "I had a smooth experience with my baggage. It arrived promptly at the destination carousel without any issues.",
+    "Response": "Baggage",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airline mishandled my baggage, and it was damaged upon arrival. I was disappointed with the lack of care taken with my belongings.",
+    "Response": "Baggage",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I had to wait for a long time at the baggage claim area, and my luggage was one of the last to arrive. It was frustrating after a long flight.",
+    "Response": "Baggage",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The airline provided a baggage allowance that was generous and allowed me to bring all the items I needed for my trip without additional fees.",
+    "Response": "Baggage",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "I had a seamless experience with my baggage, and it arrived at the destination without any delays or mishaps.",
+    "Response": "Baggage",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "My baggage was mishandled by the airline, and it arrived damaged at the destination. It was disappointing and frustrating.",
+    "Response": "Baggage",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The baggage handling process was efficient, and my luggage arrived promptly at the destination carousel. It was a hassle-free experience.",
+    "Response": "Baggage",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "I had a positive experience with my baggage. It was handled with care, and everything arrived intact at the destination.",
+    "Response": "Baggage",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airline lost my baggage, and it took several days to locate and return it to me. It caused a lot of inconvenience and disrupted my travel plans.",
+    "Response": "Baggage",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "I had a frustrating experience with my baggage. It was delayed on arrival, and I had to wait for hours at the airport to retrieve it.",
+    "Response": "Baggage",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The airline provided a baggage tracking service that allowed me to monitor the status of my luggage throughout the journey. It gave me peace of mind.",
+    "Response": "Baggage",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "I had to pay excess baggage fees at the airport, even though I was within the weight limit. It was an unexpected expense and left a negative impression.",
+    "Response": "Baggage",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The airline lost my baggage, but they provided compensation for the inconvenience. While it was frustrating, I appreciated their efforts to resolve the issue.",
+    "Response": "Baggage",
+    "Polarity": 2
+  },
+  {
+    "Reviews": "I had a smooth experience with my baggage. It arrived on time at the destination, and the handling process was efficient.",
+    "Response": "Baggage",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "My baggage was mishandled by the airline, and it arrived with items missing. It was a disappointing experience, and I had to file a report with the airline.",
+    "Response": "Baggage",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "I had a positive experience with my baggage. It arrived promptly at the destination, and the handling process was smooth.",
+    "Response": "Baggage",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airline provided a baggage drop-off service that allowed me to check in my luggage quickly and conveniently. It saved me a lot of time at the airport.",
+    "Response": "Baggage",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "My baggage was delayed on arrival, and I had to wait for several hours at the airport to retrieve it. It was frustrating after a long flight.",
+    "Response": "Baggage",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The airport facilities were clean and well-maintained, and there were plenty of shops and restaurants to choose from. It made my time at the airport enjoyable.",
+    "Response": "Airport",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "I had a smooth experience at the airport, from check-in to security to boarding. The staff were friendly and efficient throughout the process.",
+    "Response": "Airport",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The airport was crowded and chaotic, with long lines at check-in and security. It was a stressful experience.",
+    "Response": "Airport",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I appreciated the amenities at the airport, including comfortable seating areas and free Wi-Fi. It made my wait more comfortable.",
+    "Response": "Airport",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airport was well-organized, and the signage was clear and easy to follow. It made navigation seamless.",
+    "Response": "Airport",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "I encountered long wait times at security, which caused me to almost miss my flight. It was a stressful experience.",
+    "Response": "Airport",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The airport staff were helpful and courteous, and they assisted me with any questions or concerns I had. It made for a pleasant experience.",
+    "Response": "Airport",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The airport was clean and well-maintained, but the dining options were limited and overpriced. It would be great to see more affordable choices.",
+    "Response": "Airport",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "I encountered long lines at check-in, but the staff were efficient in processing passengers, and I didn't have to wait too long.",
+    "Response": "Airport",
+    "Polarity": 3
+  },
+  {
+    "Reviews": "The airport was modern and spacious, with plenty of seating areas and charging stations. It made waiting for my flight more comfortable.",
+    "Response": "Airport",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "I had a difficult time finding my gate at the airport, as the signage was unclear. It caused me to feel stressed and anxious.",
+    "Response": "Airport",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The airport was busy, but the staff managed the crowds well, and I didn't encounter any major delays or issues.",
+    "Response": "Airport",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airport security procedures were thorough but efficient, and I felt safe knowing that the staff were taking precautions.",
+    "Response": "Airport",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "I had a positive experience with airport parking. The facilities were well-maintained, and there were plenty of spaces available.",
+    "Response": "Airport",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airport was undergoing renovations, which caused confusion and disruption to normal operations. It was inconvenient for passengers.",
+    "Response": "Airport",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I appreciated the airport's efforts to provide accessibility features for passengers with disabilities. It showed a commitment to inclusivity.",
+    "Response": "Airport",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The airport lounges were comfortable and well-equipped, providing a quiet space to relax before my flight. It was a welcome amenity.",
+    "Response": "Airport",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "I had a frustrating experience with airport security, as the lines were long, and the procedures were slow. It caused me to miss my flight.",
+    "Response": "Airport",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "The airport staff were helpful in assisting me with my connecting flight, providing clear directions and guidance. It made the transfer smooth.",
+    "Response": "Airport",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airport facilities were outdated and in need of renovation. It made for a less pleasant experience overall.",
+    "Response": "Airport",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "I had a pleasant experience with airport dining options. There were plenty of choices available, and the food was delicious.",
+    "Response": "Airport",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airport was well-equipped with amenities such as restrooms, charging stations, and lounges. It made my time there more comfortable.",
+    "Response": "Airport",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "I encountered long wait times at baggage claim, and it took a while for my luggage to arrive. It was frustrating after a long flight.",
+    "Response": "Airport",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The airport was clean and well-organized, with helpful staff available to assist passengers. It made for a pleasant travel experience.",
+    "Response": "Airport",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "I had a frustrating experience with airport parking, as there were limited spaces available, and it took a long time to find a spot.",
+    "Response": "Airport",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The airport security procedures were quick and efficient, and I didn't encounter any major delays or issues. It made for a smooth travel experience.",
+    "Response": "Airport",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "I had a positive experience with airport check-in, as the staff were friendly and efficient. It made the process quick and easy.",
+    "Response": "Airport",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airport was crowded and noisy, with limited seating areas available. It made waiting for my flight uncomfortable.",
+    "Response": "Airport",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The seats on the airplane were comfortable, and I had plenty of legroom. It made for a pleasant flight experience.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "I had a window seat on the airplane, and the view was stunning. It made the flight enjoyable.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The seats on the airplane were cramped, and I felt uncomfortable throughout the flight. It made for a stressful journey.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I appreciated the amenities provided on the airplane, such as blankets, pillows, and entertainment options. It made the flight more comfortable.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The seats on the airplane were worn out and uncomfortable. It made the flight unpleasant.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "I had a middle seat on the airplane, and it was cramped and uncomfortable. It made the flight less enjoyable.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The airplane had spacious seating and ample overhead storage. It made boarding and disembarking hassle-free.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "I had a pleasant experience with the flight attendants, who were attentive and friendly throughout the journey. It made me feel well taken care of.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The seats on the airplane were uncomfortable and lacked proper lumbar support. It made for a painful flight experience.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "I had a bulkhead seat on the airplane, and it provided extra legroom. It made the flight more comfortable.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airplane had limited seating options, and I was unable to select a preferred seat during booking. It made for a less enjoyable flight.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "I was impressed by the cleanliness of the airplane and the well-maintained seating. It made for a pleasant travel experience.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The seats on the airplane were narrow and uncomfortable. It made the flight feel cramped and claustrophobic.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I had an aisle seat on the airplane, and it allowed for easy access to the restroom and overhead bins. It made the flight more convenient.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airplane had outdated seating with limited recline options. It made the flight uncomfortable.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "I had a positive experience with the in-flight meal service, which offered a variety of options and tasted delicious. It made the flight enjoyable.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The seats on the airplane were spacious and comfortable, with plenty of room to stretch out. It made the long flight bearable.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "I had an uncomfortable experience with the seating on the airplane, as the seats were old and worn out. It made the flight unpleasant.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I appreciated the extra legroom provided by the exit row seating. It made the flight more comfortable.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airplane had limited seating options for passengers with disabilities, which made it difficult for some travelers. It should be more inclusive.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "I had a positive experience with the in-flight entertainment options, which kept me entertained throughout the flight. It made the journey enjoyable.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airplane had uncomfortable seating, and I struggled to find a comfortable position for the duration of the flight. It made for a restless journey.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "I had a pleasant experience with the cabin crew, who were attentive and provided excellent service throughout the flight. It made me feel valued as a passenger.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The airplane had limited amenities, and the seating was uncomfortable. It made the flight less enjoyable.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "I had a positive experience with the seat selection process, and I was able to choose a seat that suited my preferences. It made the flight more enjoyable.",
+    "Response": "Airplane Sitting Services",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The flight attendants were friendly and helpful. The food, however, was disappointing. The baggage handling was efficient.",
+    "Response": "Others",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airplane seats were uncomfortable, and the legroom was insufficient. The travel experience was stressful due to flight delays.",
+    "Response": "Others",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The check-in process was smooth, and the staff were courteous. However, the food options on the flight were limited.",
+    "Response": "Others",
+    "Polarity": 2
+  },
+  {
+    "Reviews": "The airline lost my baggage, causing inconvenience. The airplane seats were cramped, making the journey uncomfortable.",
+    "Response": "Others",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The flight was punctual, and I arrived at my destination on time. However, the in-flight entertainment system was outdated.",
+    "Response": "Others",
+    "Polarity": 3
+  },
+  {
+    "Reviews": "The food served on the flight was of poor quality, and it made me feel nauseous. The airline staff were unprofessional and rude.",
+    "Response": "Others",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "I had a pleasant travel experience overall. The airline provided excellent service, and the airplane was clean and well-maintained.",
+    "Response": "Others",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The baggage claim area was crowded, and it took a long time to retrieve my luggage. The flight crew, however, were attentive.",
+    "Response": "Others",
+    "Polarity": -1
+  },
+  {
+    "Reviews": "The airline offered complimentary snacks and beverages, which was a nice gesture. However, the legroom in the airplane was limited.",
+    "Response": "Others",
+    "Polarity": 1
+  },
+  {
+    "Reviews": "My flight was canceled without prior notice, causing inconvenience. The food served onboard was inedible.",
+    "Response": "Others",
+    "Polarity": -5
+  },
+  {
+    "Reviews": "The airplane had spacious seating, and I was able to stretch out comfortably. The travel itinerary was well-planned.",
+    "Response": "Others",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airline charged exorbitant fees for checked baggage. The airplane seats were uncomfortable and lacked adequate cushioning.",
+    "Response": "Others",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The flight attendants were courteous, and the service was prompt. However, the food options were limited, and the quality was mediocre.",
+    "Response": "Others",
+    "Polarity": 2
+  },
+  {
+    "Reviews": "The airplane experienced turbulence throughout the flight, making it a bumpy ride. The baggage handling process was inefficient.",
+    "Response": "Others",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The airline provided complimentary Wi-Fi onboard, which was a plus. The travel experience was smooth, with no delays or disruptions.",
+    "Response": "Others",
+    "Polarity": 3
+  },
+  {
+    "Reviews": "The food served onboard was stale and unappetizing. The airline staff were unhelpful and seemed disinterested in providing assistance.",
+    "Response": "Others",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "The airplane had comfortable seating, and I had a pleasant journey. The travel arrangements were hassle-free, thanks to the efficient service.",
+    "Response": "Others",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The baggage carousel was slow, and it took ages for my luggage to arrive. The flight itself was uneventful, with no major issues.",
+    "Response": "Others",
+    "Polarity": -1
+  },
+  {
+    "Reviews": "The airline provided complimentary headphones for in-flight entertainment. However, the legroom in the airplane was limited.",
+    "Response": "Others",
+    "Polarity": 1
+  },
+  {
+    "Reviews": "The airline staff were rude and unprofessional. The food served onboard was of poor quality, and it made me sick.",
+    "Response": "Others",
+    "Polarity": -5
+  },
+  {
+    "Reviews": "The airplane had comfortable seating with ample legroom. The travel itinerary was well-planned, and I had a pleasant journey.",
+    "Response": "Others",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The flight was delayed by several hours, causing inconvenience. The food options onboard were limited, and the quality was subpar.",
+    "Response": "Others",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The airline provided excellent customer service, and the staff were attentive to passengers' needs. However, the airplane seats were uncomfortable.",
+    "Response": "Others",
+    "Polarity": 2
+  },
+  {
+    "Reviews": "The baggage handling process was efficient, and I received my luggage promptly. The flight attendants were friendly and helpful throughout the journey.",
+    "Response": "Others",
+    "Polarity": 3
+  },
+  {
+    "Reviews": "The food served onboard was delicious and exceeded my expectations. The airplane had modern amenities, including USB charging ports.",
+    "Response": "Others",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airline canceled my flight at the last minute without providing any explanation. The food options onboard were limited and overpriced.",
+    "Response": "Others",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "The airplane had comfortable seating, and I was able to rest during the flight. However, the airline lost my baggage, causing frustration.",
+    "Response": "Others",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The flight was smooth and uneventful, and I arrived at my destination on time. The food options onboard were varied, catering to different preferences.",
+    "Response": "Others",
+    "Polarity": 3
+  },
+  {
+    "Reviews": "The airline provided complimentary snacks and beverages, which was a nice touch. However, the airplane seats were cramped and uncomfortable.",
+    "Response": "Others",
+    "Polarity": -1
+  },
+  {
+    "Reviews": "The flight crew were professional and courteous throughout the journey. However, the food served onboard was cold and unappetizing.",
+    "Response": "Others",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The airline offered priority boarding for passengers with young children, which was appreciated. The airplane had spacious seating and ample legroom.",
+    "Response": "Others",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The flight was delayed due to inclement weather, which was beyond the airline's control. However, the food options onboard were limited.",
+    "Response": "Others",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The airplane had comfortable seating, and I was able to relax during the flight. The airline staff were friendly and provided excellent service.",
+    "Response": "Others",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The flight was turbulent, and it made me feel nauseous. The food served onboard was bland and unappealing.",
+    "Response": "Others",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "The airline upgraded my seat to business class as a courtesy gesture. The airplane had modern amenities, including individual entertainment screens.",
+    "Response": "Others",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The flight attendants were helpful and attentive, ensuring a comfortable journey. However, the food options onboard were limited.",
+    "Response": "Others",
+    "Polarity": 2
+  },
+  {
+    "Reviews": "The airplane had spacious seating, allowing for a comfortable journey. However, the baggage claim area was chaotic, and it took a long time to retrieve my luggage.",
+    "Response": "Others",
+    "Polarity": -1
+  },
+  {
+    "Reviews": "The airline provided complimentary Wi-Fi onboard, allowing me to stay connected during the flight. However, the food options were uninspiring.",
+    "Response": "Others",
+    "Polarity": 1
+  },
+  {
+    "Reviews": "The flight was delayed due to technical issues with the aircraft. The food served onboard was unpalatable, and it left a bad taste in my mouth.",
+    "Response": "Others",
+    "Polarity": -5
+  },
+  {
+    "Reviews": "The airplane had comfortable seating, and I was able to sleep during the flight. The airline staff were courteous and provided excellent service.",
+    "Response": "Others",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The flight was smooth and uneventful, with no delays or disruptions. The food served onboard was tasty, and there were plenty of options to choose from.",
+    "Response": "Others",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airline lost my baggage, causing inconvenience. However, the flight attendants were helpful and provided assistance throughout the journey.",
+    "Response": "Others",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The airplane had comfortable seating, and I had a pleasant journey. However, the food options onboard were limited, and the quality was mediocre.",
+    "Response": "Others",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The flight attendants were friendly and attentive, ensuring a comfortable travel experience. The airplane had modern amenities, including reclining seats.",
+    "Response": "Others",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airline provided complimentary snacks and beverages onboard, which was a nice touch. However, the airplane seats were cramped and uncomfortable.",
+    "Response": "Others",
+    "Polarity": -1
+  },
+  {
+    "Reviews": "The flight was delayed due to adverse weather conditions. The food served onboard was bland and unappetizing.",
+    "Response": "Others",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "The airplane had spacious seating, allowing for a comfortable journey. The airline staff were courteous and provided excellent service throughout.",
+    "Response": "Others",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The flight attendants were helpful and attentive, ensuring a pleasant journey. However, the food options onboard were limited.",
+    "Response": "Others",
+    "Polarity": 2
+  },
+  {
+    "Reviews": "The airline provided complimentary Wi-Fi onboard, allowing passengers to stay connected. However, the food served onboard was subpar.",
+    "Response": "Others",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The flight was smooth and comfortable, and I arrived at my destination on time. The food served onboard was delicious, and there were plenty of options to choose from.",
+    "Response": "Others",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airplane had comfortable seating, and I was able to sleep during the flight. The airline staff were courteous and provided excellent service.",
+    "Response": "Others",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The flight was smooth and uneventful, with no delays or disruptions. The food served onboard was tasty, and there were plenty of options to choose from.",
+    "Response": "Others",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airline lost my baggage, causing inconvenience. However, the flight attendants were helpful and provided assistance throughout the journey.",
+    "Response": "Others",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The airplane had comfortable seating, and I had a pleasant journey. However, the food options onboard were limited, and the quality was mediocre.",
+    "Response": "Others",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The flight attendants were friendly and attentive, ensuring a comfortable travel experience. The airplane had modern amenities, including reclining seats.",
+    "Response": "Others",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The airline provided complimentary snacks and beverages onboard, which was a nice touch. However, the airplane seats were cramped and uncomfortable.",
+    "Response": "Others",
+    "Polarity": -1
+  },
+  {
+    "Reviews": "The flight was delayed due to adverse weather conditions. The food served onboard was bland and unappetizing.",
+    "Response": "Others",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "The airplane had spacious seating, allowing for a comfortable journey. The airline staff were courteous and provided excellent service throughout.",
+    "Response": "Others",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The flight attendants were helpful and attentive, ensuring a pleasant journey. However, the food options onboard were limited.",
+    "Response": "Others",
+    "Polarity": 2
+  },
+  {
+    "Reviews": "The airline provided complimentary Wi-Fi onboard, allowing passengers to stay connected. However, the food served onboard was subpar.",
+    "Response": "Others",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The flight was smooth and comfortable, and I arrived at my destination on time. The food served onboard was delicious, and there were plenty of options to choose from.",
+    "Response": "Others",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The flight was delayed due to technical issues with the aircraft. The airline staff provided regular updates and ensured passenger safety.",
+    "Response": "Others",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The airplane had comfortable seating, and I was able to rest during the flight. However, the food options onboard were limited, and the quality was mediocre.",
+    "Response": "Others",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The flight attendants were friendly and accommodating, providing assistance to passengers when needed. The airplane had modern amenities, including in-flight entertainment.",
+    "Response": "Others",
+    "Polarity": 3
+  },
+  {
+    "Reviews": "The airline provided complimentary snacks and beverages, which was a nice gesture. However, the flight was delayed, causing inconvenience.",
+    "Response": "Others",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The flight was smooth and comfortable, with no issues encountered. The food served onboard was satisfactory, and there were vegetarian options available.",
+    "Response": "Others",
+    "Polarity": 3
+  },
+  {
+    "Reviews": "The airline staff were courteous and helpful throughout the journey. However, the airplane seats were cramped, and legroom was insufficient.",
+    "Response": "Others",
+    "Polarity": -1
+  },
+  {
+    "Reviews": "The flight was delayed due to air traffic congestion. The food served onboard was of poor quality, and there were limited options available.",
+    "Response": "Others",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "The airplane had comfortable seating, and I was able to sleep during the flight. The airline staff provided excellent service, ensuring a pleasant journey.",
+    "Response": "Others",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The flight attendants were attentive and friendly, ensuring a comfortable travel experience. However, the food options onboard were limited.",
+    "Response": "Others",
+    "Polarity": 2
+  },
+  {
+    "Reviews": "The airline provided complimentary Wi-Fi onboard, allowing passengers to stay connected during the flight. However, the food served onboard was bland and unappetizing.",
+    "Response": "Others",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The flight was smooth and comfortable, and I arrived at my destination on time. The food served onboard was delicious, and there were plenty of options to choose from.",
+    "Response": "Others",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The flight was delayed due to technical issues with the aircraft. The airline staff provided regular updates and ensured passenger safety.",
+    "Response": "Others",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The airplane had comfortable seating, and I was able to rest during the flight. However, the food options onboard were limited, and the quality was mediocre.",
+    "Response": "Others",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The flight attendants were friendly and accommodating, providing assistance to passengers when needed. The airplane had modern amenities, including in-flight entertainment.",
+    "Response": "Others",
+    "Polarity": 3
+  },
+  {
+    "Reviews": "The flight attendants were courteous and helpful throughout the journey. However, the airplane seats were cramped, and legroom was insufficient.",
+    "Response": "Others",
+    "Polarity": -1
+  },
+  {
+    "Reviews": "The flight was delayed due to air traffic congestion. The food served onboard was of poor quality, and there were limited options available.",
+    "Response": "Others",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "The airplane had comfortable seating, and I was able to sleep during the flight. The airline staff provided excellent service, ensuring a pleasant journey.",
+    "Response": "Others",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The flight attendants were attentive and friendly, ensuring a comfortable travel experience. However, the food options onboard were limited.",
+    "Response": "Others",
+    "Polarity": 2
+  },
+  {
+    "Reviews": "The airline provided complimentary Wi-Fi onboard, allowing passengers to stay connected during the flight. However, the food served onboard was bland and unappetizing.",
+    "Response": "Others",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The flight was smooth and comfortable, and I arrived at my destination on time. The food served onboard was delicious, and there were plenty of options to choose from.",
+    "Response": "Others",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The flight was delayed due to technical issues with the aircraft. The airline staff provided regular updates and ensured passenger safety.",
+    "Response": "Others",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The airplane had comfortable seating, and I was able to rest during the flight. However, the food options onboard were limited, and the quality was mediocre.",
+    "Response": "Others",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The flight attendants were friendly and accommodating, providing assistance to passengers when needed. The airplane had modern amenities, including in-flight entertainment.",
+    "Response": "Others",
+    "Polarity": 3
+  },
+  {
+    "Reviews": "The airline provided complimentary snacks and beverages, which was a nice gesture. However, the flight was delayed due to technical issues.",
+    "Response": "Others",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The flight was smooth and comfortable, with no issues encountered. The food served onboard was satisfactory, and there were vegetarian options available.",
+    "Response": "Others",
+    "Polarity": 3
+  },
+  {
+    "Reviews": "The airline staff were courteous and helpful throughout the journey. However, the airplane seats were cramped, and legroom was insufficient.",
+    "Response": "Others",
+    "Polarity": -1
+  },
+  {
+    "Reviews": "The flight was delayed due to air traffic congestion. The food served onboard was of poor quality, and there were limited options available.",
+    "Response": "Others",
+    "Polarity": -4
+  },
+  {
+    "Reviews": "The airplane had comfortable seating, and I was able to sleep during the flight. The airline staff provided excellent service, ensuring a pleasant journey.",
+    "Response": "Others",
+    "Polarity": 5
+  },
+  {
+    "Reviews": "The flight attendants were attentive and friendly, ensuring a comfortable travel experience. However, the food options onboard were limited.",
+    "Response": "Others",
+    "Polarity": 2
+  },
+  {
+    "Reviews": "The airline provided complimentary Wi-Fi onboard, allowing passengers to stay connected during the flight. However, the food served onboard was bland and unappetizing.",
+    "Response": "Others",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The flight was smooth and comfortable, and I arrived at my destination on time. The food served onboard was delicious, and there were plenty of options to choose from.",
+    "Response": "Others",
+    "Polarity": 4
+  },
+  {
+    "Reviews": "The flight was delayed due to technical issues with the aircraft. The airline staff provided regular updates and ensured passenger safety.",
+    "Response": "Others",
+    "Polarity": -2
+  },
+  {
+    "Reviews": "The airplane had comfortable seating, and I was able to rest during the flight. However, the food options onboard were limited, and the quality was mediocre.",
+    "Response": "Others",
+    "Polarity": -3
+  },
+  {
+    "Reviews": "The flight attendants were friendly and accommodating, providing assistance to passengers when needed. The airplane had modern amenities, including in-flight entertainment.",
+    "Response": "Others",
+    "Polarity": 3
+  },
+  {
+    "Reviews": "The flight was uneventful, with no major issues encountered. However, the food options onboard were limited.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The airline staff were courteous, but the overall experience was average. The airplane seating was comfortable, but the food quality could have been better.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The flight departure was delayed, but the airline provided timely updates to passengers. The food served onboard was average, with no standout options.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The airplane had modern amenities, including Wi-Fi and in-flight entertainment. However, the food options were limited, and the quality was mediocre.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The flight attendants were friendly and helpful, but the overall experience was unremarkable. The airplane seating was average, and the food served onboard was adequate.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The airport facilities were clean and well-maintained, but the waiting times at security checkpoints were longer than expected.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The airline check-in process was smooth, but the boarding process was slightly delayed. Overall, it was a satisfactory experience.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The baggage handling was efficient, and my luggage arrived on time. However, the flight itself was uneventful.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The airplane seating was comfortable, but the legroom was limited. The food served onboard was average, with no standout options.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The airport staff were helpful and courteous, but the security procedures were somewhat cumbersome. Overall, it was an average experience.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The flight was on time, and the airplane was clean and well-maintained. However, the food options onboard were limited.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The airline provided good customer service, but the overall experience was unremarkable. The airplane seating was average, and the food options were limited.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The airport amenities were sufficient, but the signage could have been clearer. Overall, it was an average experience.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The flight attendants were attentive, but the food served onboard was bland. The airplane seating was comfortable, but the legroom was limited.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The airline provided timely updates about the flight status, but the boarding process was disorganized. Overall, it was a satisfactory experience.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The baggage claim process was smooth, and my luggage arrived intact. However, the flight itself was unremarkable.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The airplane amenities were satisfactory, but the food options were limited. Overall, it was an average experience.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The airport facilities were modern and clean, but the waiting times at security checkpoints were longer than expected. Overall, it was a satisfactory experience.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The airline staff were courteous and helpful, but the food served onboard was mediocre. The airplane seating was comfortable, but the legroom was limited.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The flight departure was on time, and the airplane was clean and well-maintained. However, the food options onboard were limited.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The airline provided good customer service, but the overall experience was average. The airplane seating was comfortable, but the food options were limited.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The airport facilities were modern and well-equipped, but the waiting times at security checkpoints were longer than expected. Overall, it was a satisfactory experience.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The flight attendants were friendly and attentive, but the food served onboard was mediocre. The airplane seating was comfortable, but the legroom was limited.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The airline provided timely updates about the flight status, but the boarding process was chaotic. Overall, it was a satisfactory experience.",
+    "Response": "Others",
+    "Polarity": 0
+  },
+  {
+    "Reviews": "The baggage handling was efficient, and my luggage arrived on time. However, the flight itself was unremarkable.",
+    "Response": "Others",
+    "Polarity": 0
+  }
+]
